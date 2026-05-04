@@ -1,0 +1,22 @@
+timestamp,text,true_label,predicted,confidence,correct,adjusted
+2026-05-05 00:08:41,"I just got promoted at work, I'm absolutely thrilled!",joy,joy,0.6864,True,False
+2026-05-05 00:08:41,"My best friend surprised me with a birthday party, so happy!",joy,joy,0.7015,True,False
+2026-05-05 00:08:41,omg i just got accepted to my dream university!!!,joy,joy,0.4893,True,False
+2026-05-05 00:08:41,"I lost my dog today, he was my best friend for 10 years.",sadness,sadness,0.5244,True,False
+2026-05-05 00:08:41,Nobody showed up to my birthday party. I feel so alone.,sadness,sadness,0.4196,True,False
+2026-05-05 00:08:42,I failed my exam after studying so hard. I give up.,sadness,sadness,0.2871,True,False
+2026-05-05 00:08:42,I can't believe they lied to me after everything I did for them.,anger,guilt,0.265,False,False
+2026-05-05 00:08:42,The company fired me without any warning or reason. Outrageous.,anger,disgust,0.2689,False,False
+2026-05-05 00:08:42,smh people have no respect for others nowadays,anger,disgust,0.2263,False,False
+2026-05-05 00:08:42,I have to give a speech in front of 500 people tomorrow.,fear,joy,0.2391,False,False
+2026-05-05 00:08:42,The doctor said the results could be serious. I'm terrified.,fear,fear,0.5315,True,False
+2026-05-05 00:08:42,Walking alone at night in that area made me extremely anxious.,fear,fear,0.5251,True,False
+2026-05-05 00:08:43,The way they treated those animals was absolutely revolting.,disgust,disgust,0.3546,True,False
+2026-05-05 00:08:43,I feel sick seeing how corrupt the system has become.,disgust,fear,0.2313,False,False
+2026-05-05 00:08:43,I cheated on the test and I can't look my teacher in the eye.,shame,guilt,0.2498,False,False
+2026-05-05 00:08:43,I said something really hurtful and I'm so ashamed of myself.,shame,shame,0.2893,True,False
+2026-05-05 00:08:43,I should have been there for her when she needed me most.,guilt,joy,0.4102,False,False
+2026-05-05 00:08:43,I feel so guilty for not telling the truth when I had the chance.,guilt,guilt,0.3101,True,False
+2026-05-05 00:08:44,"Oh fantastic, my flight got cancelled again. Just perfect.",anger,joy,0.5701,False,False
+2026-05-05 00:08:44,I was not unhappy with how the presentation went.,joy,anger,0.2024,False,False
+2026-05-05 00:08:44,ngl tbh i kinda feel empty inside rn,sadness,sadness,0.2362,True,False
